@@ -1,0 +1,15 @@
+.photo{
+    height: 100px;
+    max-width: 250px;
+}
+
+.alignleft {
+
+    text-align-last: justify;
+    text-align:justify;
+}
+
+.flex {
+    display:flex;
+    justify-content: space-between;
+}
