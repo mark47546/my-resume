@@ -17,7 +17,7 @@ let resumeData = {
             'className':'fa fa-linkedin'
         }
     ],
-    'aboutMe':'As a Frontend Developer, I am fond of a website that is easy on the eyes yet convenient, so my goal is to make a website that is friendly to users and has a good design. I am also a good team player who can adapt to a new environment.',
+    'aboutMe':'As a Frontend Developer, I am fond of a website that is easy on the eyes yet convenient, so my goal is to make a website that is friendly to users and has a good design. I am responsible and a good listener. I always deliver work on time and am open to feedback on my work to improve myself. I am a calm person which makes it easy for me to work under pressure. When it comes to problem-solving, I try to figure a way out by searching for the solution before asking for advice from seniors. In addition, I can work individually and have the ability to adapt to a new environment and work in a group.',
     'address': '25/214 Regent Home 25 Tiwanon Talatkwan Nontaburi 11000',
     'education':[
         {
