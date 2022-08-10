@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "npm":"^8.7.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.0",
+    "create-app-react": "^1.0.6",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "mdbreact": "^5.0.1",
