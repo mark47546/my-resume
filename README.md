@@ -1,4 +1,4 @@
-# Getting Started with My Portfolio App
+# Getting Started with My Resume App
 
 ## Available Scripts
 

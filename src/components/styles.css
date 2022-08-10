@@ -1,6 +1,6 @@
 .photo{
     height: 100px;
-    max-width: 250px;
+    max-width: 100px;
 }
 
 .alignleft {
@@ -11,5 +11,5 @@
 
 .flex {
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around ;
 }

@@ -66,18 +66,19 @@ let resumeData = this.props.resumeData;
             </div>
                 <MDBContainer>
                     <MDBRow>
-                        <MDBCol lg="4" md="6" className="mb-3" className='flex'>
-                            <img src = 'images/python.png' className="img-fluid z-depth-1" className="photo" alt="" />
-                            <img src = 'images/django.png'className="img-fluid z-depth-1" className="photo" alt="" />
-                            <img src = 'images/react.png'className="img-fluid z-depth-1" className="photo" alt="" />
-                            <img src = 'images/htmlcssjs.png'className="img-fluid z-depth-1" className="photo" alt="" />
+                        <MDBCol lg="4" md="6" className="mb-3 flex">
+                            <img src = 'images/python.png' className="img-fluid z-depth-1 photo" alt="" />
+                            <img src = 'images/django.png'className="img-fluid z-depth-1 photo" alt="" />
+                            <img src = 'images/react.png'className="img-fluid z-depth-1 photo" alt="" />
+                            
                         </MDBCol>
                     </MDBRow>
                     <MDBRow>
-                        <MDBCol lg="4" md="6" className="mb-3" className='flex'>
-                            <img src = 'images/mongol.png'className="img-fluid z-depth-1" className="photo" alt="" />
-                            <img src = 'images/docker.png'className="img-fluid z-depth-1" className="photo" alt="" />
-                            <img src = 'images/sql.png'className="img-fluid z-depth-1" className="photo" alt="" />
+                        <MDBCol lg="4" md="6" className="mb-3 flex">
+                            <img src = 'images/htmlcssjs.png'className="img-fluid z-depth-1 photo" alt="" />
+                            <img src = 'images/angular.png'className="img-fluid z-depth-1 photo" alt="" />
+                            <img src = 'images/docker.png'className="img-fluid z-depth-1 photo" alt="" />
+                            
                         </MDBCol>
                     </MDBRow>
                 </MDBContainer>

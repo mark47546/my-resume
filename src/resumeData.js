@@ -4,7 +4,7 @@ let resumeData = {
     'telephoneNum': '0826719104',
     'gmail': 'mark47546natthaphon@gmail.com',
     'githubId': 'mark47546',
-    'roleDescription': 'I like to learn and create an applications with new technology, in my free time I prefer to spend time with music and cooking. ',
+    'roleDescription': 'A Frontend Developer who is keen to learn more about developing websites and open to new skills',
     'socialLinks':[
         {
             'name':'github',
@@ -17,19 +17,30 @@ let resumeData = {
             'className':'fa fa-linkedin'
         }
     ],
-    'aboutMe':'I am currently a third-year student in the department of Software and Knowledge Engineering at Kasetsart University. I believe that I am a hardworking person and has always been passionate to learn a new skill.',
+    'aboutMe':'As a Frontend Developer, I am fond of a website that is easy on the eyes yet convenient, so my goal is to make a website that is friendly to users and has a good design. I am also a good team player who can adapt to a new environment.',
     'address': '25/214 Regent Home 25 Tiwanon Talatkwan Nontaburi 11000',
     'education':[
         {
             'UniversityName':'Kasetsart University',
-            'specialization':'Third-year student',
-            'year':'2020'
+            'specialization':'Software and Knowledge Engineering',
+            'year':'2018-2022'
+        },
+        {
+            'UniversityName':'Assumption College',
+            'specialization':'Science and Math',
+            'year':'2012-2018'
         }
     ],
     'experience':[
         {
+            'EventName':'Bluebik Group PLC. Internship',
+            'Role':'Frontend Developer',
+            'Start':'1/06/2021',
+            'End':'21/12/2021'
+        },
+        {
             'EventName':'KU Startup',
-            'Role':'Web Developer',
+            'Role':'Frontend Developer',
             'Start':'31/05/2019',
             'End':'2/06/2019'
         },
@@ -41,17 +52,18 @@ let resumeData = {
 
         },
         {
-            'EventName':'Exceed Camp',
-            'Role':'Web Developer and Presenter of a project',
-            'Start':'9/07/2019',
-            'End': '15/07/2019'
-        },
-        {
             'EventName':'CE TNI Engineering Camp',
             'Role': 'Instructor',
             'Start': '21/07/2019',
             'End':'22/07/2019'
         },
+        {
+            'EventName':'Exceed Camp',
+            'Role':'Frontend Developer and Presenter',
+            'Start':'9/07/2019',
+            'End': '15/07/2019'
+        },
+        
 
     ],
     'skillsDescription':'My skill',
@@ -81,20 +93,20 @@ let resumeData = {
             'imageurl':'images/mongol.png',
         },
         {
-            'skillname':'SQL',
-            'imageurl':'images/sql.png',
+            'skillname':'Angular',
+            'imageurl':'images/angular.png',
         },
     ],
     'portfolio':[
         {
-            'name':'My Portfolio',
-            'description':'Django Responsive Portfolio Website',
-            'link':'https://github.com/mark47546/portfolio',
-            'imgurl':'images/portfolio/portfolio.png'
+            'name':'Cryptians',
+            'description':'Django Crypto Price Prediction Website',
+            'link':'https://github.com/mark47546/Cryptians',
+            'imgurl':'images/portfolio/cryptians.png'
         },
         {
             'name':'Telling',
-            'description':'Django Online Reading Web Application',
+            'description':'Django E-books Web Application',
             'link':'https://github.com/kidstylex/TELLING',
             'imgurl':'images/portfolio/telling1.png'
         },
