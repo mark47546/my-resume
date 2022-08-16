@@ -8,7 +8,7 @@ export default class ContactUs extends Component{
                     <div className='row' >
                             <div className='widget'>
                                 <h4>
-                                    Github: <a href='https://github.com/mark47546'>{resumeData.githubId}</a>
+                                    Github: {resumeData.githubId}
                                 </h4>
                                 <h4>
                                     Contact: {resumeData.telephoneNum}
