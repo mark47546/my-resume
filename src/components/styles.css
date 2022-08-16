@@ -4,10 +4,15 @@
 }
 
 .alignleft {
-
-    text-align-last: justify;
+    /* text-align-last: justify; */
     text-align:justify;
 }
+@media screen and (max-width: 400px) {
+    .alignleft {
+      padding: 0 20px;
+    }
+  }
+  
 
 .flex {
     display:flex;
