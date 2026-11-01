@@ -64,47 +64,47 @@ export default class Resume extends Component {
               <span>Skills</span>
             </h1>
           </div>
+          <MDBContainer className="nine columns">
+            <MDBRow>
+              <MDBCol lg="4" md="6" className="add-bottom flex">
+                <img
+                  src="images/python.png"
+                  className="img-fluid z-depth-1 photo"
+                  alt=""
+                />
+                <img
+                  src="images/django.png"
+                  className="img-fluid z-depth-1 photo"
+                  alt=""
+                />
+                <img
+                  src="images/react.png"
+                  className="img-fluid z-depth-1 photo"
+                  alt=""
+                />
+              </MDBCol>
+            </MDBRow>
+            <MDBRow>
+              <MDBCol lg="4" md="6" className="flex">
+                <img
+                  src="images/htmlcssjs.png"
+                  className="img-fluid z-depth-1 photo"
+                  alt=""
+                />
+                <img
+                  src="images/angular.png"
+                  className="img-fluid z-depth-1 photo"
+                  alt=""
+                />
+                <img
+                  src="images/docker.png"
+                  className="img-fluid z-depth-1 photo"
+                  alt=""
+                />
+              </MDBCol>
+            </MDBRow>
+          </MDBContainer>
         </div>
-        <MDBContainer>
-          <MDBRow>
-            <MDBCol lg="4" md="6" className="mb-3 flex">
-              <img
-                src="images/python.png"
-                className="img-fluid z-depth-1 photo"
-                alt=""
-              />
-              <img
-                src="images/django.png"
-                className="img-fluid z-depth-1 photo"
-                alt=""
-              />
-              <img
-                src="images/react.png"
-                className="img-fluid z-depth-1 photo"
-                alt=""
-              />
-            </MDBCol>
-          </MDBRow>
-          <MDBRow>
-            <MDBCol lg="4" md="6" className="mb-3 flex">
-              <img
-                src="images/htmlcssjs.png"
-                className="img-fluid z-depth-1 photo"
-                alt=""
-              />
-              <img
-                src="images/angular.png"
-                className="img-fluid z-depth-1 photo"
-                alt=""
-              />
-              <img
-                src="images/docker.png"
-                className="img-fluid z-depth-1 photo"
-                alt=""
-              />
-            </MDBCol>
-          </MDBRow>
-        </MDBContainer>
       </section>
     );
   }
