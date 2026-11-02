@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { MDBRow, MDBCol, MDBContainer, MDBMedia } from "mdbreact";
+import { MDBRow, MDBCol, MDBContainer } from "mdbreact";
 import "./styles.css";
 export default class Resume extends Component {
   render() {
