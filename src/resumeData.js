@@ -19,7 +19,7 @@ let resumeData = {
     },
   ],
   aboutMe:
-    "As a Frontend Developer, I am fond of a website that is easy on the eyes yet convenient, so my goal is to make a website that is friendly to users and has a good design. I am responsible and a good listener. I always deliver work on time and am open to feedback on my work to improve myself. I am a calm person which makes it easy for me to work under pressure. When it comes to problem-solving, I try to figure a way out by searching for the solution before asking for advice from seniors. In addition, I can work individually and have the ability to adapt to a new environment and work in a group.",
+    "Full-stack Developer with approximately three years of professional experience building web applications using React.js, Next.js, Node.js, Express.js, and GraphQL. Holding a master's degree in AI for Digital Business from the University of Liverpool, with an interest in leveraging technology and AI to develop practical, business-oriented solutions. I focus on building scalable, maintainable, and user-centric applications while applying analytical problem-solving and effective collaboration. I am adaptable, proactive in learning new technologies, and committed to delivering high-quality work.",
   address: "25/214 Regent Home 25 Tiwanon Talatkwan Nontaburi 11000",
   education: [
     {

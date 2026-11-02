@@ -65,40 +65,59 @@ export default class Resume extends Component {
             </h1>
           </div>
           <MDBContainer className="nine columns">
-            <MDBRow>
-              <MDBCol lg="4" md="6" className="add-bottom flex">
-                <img
-                  src="images/python.png"
-                  className="img-fluid z-depth-1 photo"
-                  alt=""
-                />
-                <img
-                  src="images/django.png"
-                  className="img-fluid z-depth-1 photo"
-                  alt=""
-                />
+            <MDBRow className="padding-phone">
+              <MDBCol className="add-bottom flex between">
                 <img
                   src="images/react.png"
-                  className="img-fluid z-depth-1 photo"
+                  className="photo"
+                  alt=""
+                />
+                <img
+                  src="images/nextjs.png"
+                  className="photo"
+                  alt=""
+                />
+                <img
+                  src="images/node.svg"
+                  className="photo"
                   alt=""
                 />
               </MDBCol>
             </MDBRow>
-            <MDBRow>
-              <MDBCol lg="4" md="6" className="flex">
+            <MDBRow className="padding-phone">
+              <MDBCol className="add-bottom flex between">
                 <img
-                  src="images/htmlcssjs.png"
-                  className="img-fluid z-depth-1 photo"
+                  src="images/express.png"
+                  className="photo"
                   alt=""
                 />
                 <img
-                  src="images/angular.png"
-                  className="img-fluid z-depth-1 photo"
+                  src="images/tailwind.png"
+                  className="photo"
+                  alt=""
+                />
+                <img
+                  src="images/htmlcssjs.png"
+                  className="photo"
+                  alt=""
+                />
+              </MDBCol>
+            </MDBRow>
+            <MDBRow className="padding-phone">
+              <MDBCol className="flex between">
+                <img
+                  src="images/vercel.webp"
+                  className="photo"
+                  alt=""
+                />
+                <img
+                  src="images/sql.png"
+                  className="photo"
                   alt=""
                 />
                 <img
                   src="images/docker.png"
-                  className="img-fluid z-depth-1 photo"
+                  className="photo"
                   alt=""
                 />
               </MDBCol>

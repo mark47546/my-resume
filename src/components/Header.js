@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { TypeAnimation } from "react-type-animation";
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -38,7 +39,15 @@ export default class Header extends Component {
           </nav>
           <div className="row banner h-100">
             <div className="banner-text">
-              <h1 className="responsive-headline">{resumeData.name}</h1>
+              <h1 className="responsive-headline">
+                <TypeAnimation
+                  sequence={[resumeData.name, 1000]}
+                  wrapper="span"
+                  speed={50}
+                  repeat={0}
+                />
+              </h1>
+              {/* <h1 className="responsive-headline">{resumeData.name}</h1> */}
               {/* <h3 style={{ color: "#fff", fontFamily: "sans-serif" }}>
                 {resumeData.roleDescription}
               </h3> */}
