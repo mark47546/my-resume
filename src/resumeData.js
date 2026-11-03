@@ -2,7 +2,7 @@ let resumeData = {
   name: "Natthaphon Rakprakobkij",
   role: "Frontend Developer",
   telephoneNum: "0826719104",
-  gmail: "mark47546natthaphon@gmail.com",
+  gmail: "natthaphon.rakpra@gmail.com",
   githubId: "mark47546",
   roleDescription:
     "A Frontend Developer who is keen to learn more about developing websites and open to new skills",
