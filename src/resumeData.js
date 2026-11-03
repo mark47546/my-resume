@@ -24,7 +24,7 @@ let resumeData = {
   education: [
     {
       UniversityName: "University of Liverpool",
-      specialization: "MSC AI for Digital Business",
+      specialization: "MSc AI for Digital Business",
       year: "2025-2026",
     },
     {
