@@ -19,7 +19,7 @@ let resumeData = {
     },
   ],
   aboutMe:
-    "Full-stack Developer with approximately three years of professional experience building web applications using React.js, Next.js, Node.js, Express.js, and GraphQL. Holding a master's degree in AI for Digital Business from the University of Liverpool, with an interest in leveraging technology and AI to develop practical, business-oriented solutions. I focus on building scalable, maintainable, and user-centric applications while applying analytical problem-solving and effective collaboration. I am adaptable, proactive in learning new technologies, and committed to delivering high-quality work.",
+    "Software Developer with approximately three years of professional experience building web applications. Holding a master's degree in AI for Digital Business from the University of Liverpool, with an interest in leveraging technology and AI to develop practical, business-oriented solutions. I focus on building scalable, maintainable, and user-centric applications while applying analytical problem-solving and effective collaboration.",
   address: "25/214 Regent Home 25 Tiwanon Talatkwan Nontaburi 11000",
   education: [
     {

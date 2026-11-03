@@ -921,3 +921,6 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #F06000; }
 
+.img-item {
+   border-radius: 8px;
+}

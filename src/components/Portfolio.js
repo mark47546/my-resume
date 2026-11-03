@@ -21,7 +21,7 @@ export default class Porfolio extends Component {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <div className="item-wrap">
+                        <div className="item-wrap img-item">
                           <img src={item.imgurl} className="item-img" alt="Project Preview" />
                           <div className="overlay">
                             <div className="portfolio-item-meta">
